@@ -4,7 +4,7 @@
 def woof():
 
     #printing woof when you put in the function
-    return "woof"
+    return "Woof"
 
 
 #using function "woof"
